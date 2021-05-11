@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "gsap": "3.6.0",
-    "lodash": "4.17.19",
+    "lodash": "4.17.21",
     "normalize-wheel": "1.0.1",
     "three": "0.125.0"
   },
